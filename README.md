@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+4.Hafta Ödevi CodeSandbox link aşağıdadır
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://codesandbox.io/s/4-hafta-odev-delilcan-duven-bc71du?file=/src/App.js:0-66
+
+
+4. Hafta Araştırma ödevi drive linki aşağıdadır
+
+https://docs.google.com/document/d/1XS84E2UKp8WkE9dTKbPdD4TuZ2E6cp5TUChlC5P8G5g/edit
 
 ## Available Scripts
 
